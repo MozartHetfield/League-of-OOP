@@ -1,10 +1,3 @@
-    NUME: SOARE ION-ALEXANDRU
-    UNIVERSITATEA: POLITEHNICA DIN BUCURESTI
-    FACULTATEA: AUTOMATICA SI CALCULATOARE, CTI
-    GRUPA SI SERIA: 323 CD
-    AN UNIVERSITAR: 2017-2018
-    PROFESOR COORDONATOR: ALEXANDRU OLTEANU
-
 ------------------LEAGUE OF POO------------------
 
 Tema este structura in 2 pachete, unul main, ce contine clasa Main, conform
